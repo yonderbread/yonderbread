@@ -1,9 +1,3 @@
-# Jasper Whittle
-
-**Founder @ Whittle Solutions LLC** | Web Developer & Designer
-
----
-
 ### About
 
 I build modern, high-performance websites for small businesses. From concept to deployment in under 24 hours, with free hosting included.
